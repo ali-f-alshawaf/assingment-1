@@ -13,6 +13,7 @@
 		7B06DBDF245FEC5600E80B2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B06DBDE245FEC5600E80B2C /* Assets.xcassets */; };
 		7B06DBE2245FEC5600E80B2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B06DBE1245FEC5600E80B2C /* Preview Assets.xcassets */; };
 		7B06DBE5245FEC5600E80B2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B06DBE3245FEC5600E80B2C /* LaunchScreen.storyboard */; };
+		7B06DBED246031CC00E80B2C /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B06DBEC246031CC00E80B2C /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B06DBE1245FEC5600E80B2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B06DBE4245FEC5600E80B2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B06DBE6245FEC5600E80B2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B06DBEC246031CC00E80B2C /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7B06DBD8245FEC5300E80B2C /* AppDelegate.swift */,
 				7B06DBDA245FEC5300E80B2C /* SceneDelegate.swift */,
 				7B06DBDC245FEC5300E80B2C /* ContentView.swift */,
+				7B06DBEC246031CC00E80B2C /* Calculator.swift */,
 				7B06DBDE245FEC5600E80B2C /* Assets.xcassets */,
 				7B06DBE3245FEC5600E80B2C /* LaunchScreen.storyboard */,
 				7B06DBE6245FEC5600E80B2C /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B06DBD9245FEC5300E80B2C /* AppDelegate.swift in Sources */,
+				7B06DBED246031CC00E80B2C /* Calculator.swift in Sources */,
 				7B06DBDB245FEC5300E80B2C /* SceneDelegate.swift in Sources */,
 				7B06DBDD245FEC5300E80B2C /* ContentView.swift in Sources */,
 			);
